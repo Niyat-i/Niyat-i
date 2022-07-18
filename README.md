@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Niyat-i
-- 👀 I’m interested in learning Pyhton and using it in AI
+- 👀 I’m interested in knowing Python
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on AI projects with people that can teach me
+- 💞️ I’m looking in the mirror.
 - 📫 How to reach me - Blue bird app
 
 <!---
